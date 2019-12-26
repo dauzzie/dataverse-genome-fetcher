@@ -1,0 +1,11 @@
+,dataset_id,dataset_persistent_id,file_id,global_id,identifier,identifier_of_dataverse,name,published_at,type,url
+0,0,0,0,doi:10.70122/FK2/MXAKAA,0,DTL_private,Test,2019-11-04T18:24:17Z,dataset,https://doi.org/10.70122/FK2/MXAKAA
+1,395297,doi:10.70122/FK2/MXAKAA,395298,0,0,0,Hannibal.jpg,2019-11-04T18:24:17Z,file,https://demo.dataverse.org/api/access/datafile/395298
+2,0,0,0,0,DTL_private,0,Private Data,2019-11-04T18:24:17Z,dataverse,https://demo.dataverse.org/dataverse/DTL_private
+3,0,0,0,0,ravi,0,open Dataverse,2019-11-04T10:50:32Z,dataverse,https://demo.dataverse.org/dataverse/ravi
+4,0,0,0,doi:10.70122/FK2/FBL2AI,0,Handa,Replication Data for: Libraries and Research Data Management,2019-11-04T10:34:03Z,dataset,https://doi.org/10.70122/FK2/FBL2AI
+5,395288,doi:10.70122/FK2/FBL2AI,395289,0,0,0,doi_10.70122_FK2_SR0ASN.ris,2019-11-04T10:34:03Z,file,https://demo.dataverse.org/api/access/datafile/395289
+6,0,0,0,doi:10.70122/FK2/YIAWRJ,0,rgiit2019,RG CU,2019-11-04T10:30:54Z,dataset,https://doi.org/10.70122/FK2/YIAWRJ
+7,395264,doi:10.70122/FK2/YIAWRJ,395281,0,0,0,CodebookAddendum.pdf,2019-11-04T10:30:54Z,file,https://demo.dataverse.org/api/access/datafile/395281
+8,395264,doi:10.70122/FK2/YIAWRJ,395280,0,0,0,Codebook.pdf,2019-11-04T10:30:54Z,file,https://demo.dataverse.org/api/access/datafile/395280
+9,395264,doi:10.70122/FK2/YIAWRJ,395285,0,0,0,MANIFEST.TXT,2019-11-04T10:30:54Z,file,https://demo.dataverse.org/api/access/datafile/395285

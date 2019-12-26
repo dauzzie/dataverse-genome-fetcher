@@ -1,0 +1,1 @@
+./bin/flatfile-to-json.pl -gff Balaenoptera-musculus-v1.0.a1.5cb3ac6e15fa3-blat.alignments.gff3 --trackLabel Balaenoptera-musculus-v1.0.a1.5cb3ac6e15fa3-blat.alignments.gff3 --trackType CanvasFeatures --out data --mem 16384000000 --type match
